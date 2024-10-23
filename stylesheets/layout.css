@@ -1,9 +1,7 @@
 * {
   box-sizing: border-box;
 }
-html {
-  width: 1680px;
-}
+
 body {
   width: 1440px;
   display: block;
@@ -257,9 +255,7 @@ body {
 * {
   box-sizing: border-box;
 }
-html {
-  width: 1680px;
-}
+
 body {
   width: 1440px;
   display: block;
@@ -930,7 +926,7 @@ body {
 .circle12 {
   width: 31.96px;
   height: 31.96px;
-  background-color: #332a97; /* Синий оттенок */
+  background-color: #332a97;
   border-radius: 50%;
   position: relative;
 }
@@ -938,7 +934,7 @@ body {
 .circle13 {
   width: 31.96px;
   height: 31.96px;
-  background-color: #d9d9d9; /* Серый оттенок */
+  background-color: #d9d9d9;
   border-radius: 50%;
   position: relative;
 }
@@ -947,10 +943,10 @@ body {
   position: absolute;
   top: 158px;
   left: 104px;
-  font-size: 22.45px; /* Убедитесь, что размер шрифта указан с единицами измерения */
+  font-size: 22.45px;
   font-weight: 700;
-  margin: 0; /* Сбрасываем margin */
-  text-align: left; /* Выравнивание текста по центру */
+  margin: 0;
+  text-align: left;
   width: auto;
 }
 .section-9 {
