@@ -932,6 +932,10 @@ body {
   left: 8px;
 }
 
+.circle10:hover {
+  transform: scale(1.1);
+  filter: brightness(2);
+}
 .flex5 img {
   position: absolute;
   top: 60%;
@@ -1082,6 +1086,16 @@ body {
   text-align: left;
   width: auto;
 }
+
+.blodtype {
+  font-size: 11.4px;
+  font-weight: 700;
+  position: absolute;
+  left: 215px;
+  top: 168px;
+  background-color: white;
+}
+
 .section-9 {
   position: relative;
   margin-top: 240px;
@@ -1133,6 +1147,7 @@ body {
   border-radius: 10px;
   justify-content: center;
   align-items: center;
+  display: flex;
   font-size: 38px;
   color: black;
   font-weight: bold;
